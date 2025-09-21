@@ -6,7 +6,9 @@
     "authors": [
         {
             "name": "Ahsan",
-            "email": "ahsan@example.com"
+            "email": "ahsanulalam.500@gmail.com",
+            "role": "Developer",
+            "Author_website": "https://developerahsan.com"
         }
     ],
     "require": {
